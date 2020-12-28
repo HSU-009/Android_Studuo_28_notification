@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Android_Studuo_28_notification"
